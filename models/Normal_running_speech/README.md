@@ -1,0 +1,1 @@
+It's no problem to leave this directory empty. DNN-model files would be created automatically in it.
