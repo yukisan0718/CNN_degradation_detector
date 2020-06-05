@@ -1,0 +1,1 @@
+# CNN_degradation_detector
